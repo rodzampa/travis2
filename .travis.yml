@@ -1,0 +1,5 @@
+laguage: python
+python:
+  - "3.6"
+sccript:
+  - py.test test.py
